@@ -6,6 +6,7 @@ DATE?=`LC_ALL=en_US date "+%B %e, %Y"`
 
 BUILD_DIR = build
 OUT_DIR = output
+123
 
 PDF_NAME?= "neofs-spec-${VERSION}.pdf"
 TEX_NAME?= "neofs-spec-${VERSION}.tex"
