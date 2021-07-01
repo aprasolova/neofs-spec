@@ -1,2 +1,0 @@
-\newpage
-# Blockchain components
